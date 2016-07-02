@@ -1,5 +1,8 @@
 
-tr{
+.wrapper{
+	background-color: #fff;
+}
+	tr{
 	height: 60px;
 }
 table{
